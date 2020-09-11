@@ -1,0 +1,34 @@
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Domain.deps.json
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Domain.dll
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.csprojAssemblyReference.cache
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.AssemblyInfoInputs.cache
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.AssemblyInfo.cs
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Domain.pdb
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Exceptions.dll
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Model.dll
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Model.pdb
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Exceptions.pdb
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.csproj.CopyComplete
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.dll
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.pdb
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Domain.runtimeconfig.json
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Domain.runtimeconfig.dev.json
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.genruntimeconfig.cache
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Domain.deps.json
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Domain.runtimeconfig.json
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Domain.runtimeconfig.dev.json
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Domain.dll
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Domain.pdb
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Exceptions.dll
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Model.dll
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Model.pdb
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Exceptions.pdb
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.csprojAssemblyReference.cache
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.AssemblyInfoInputs.cache
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.AssemblyInfo.cs
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.csproj.CopyComplete
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.dll
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.pdb
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.genruntimeconfig.cache

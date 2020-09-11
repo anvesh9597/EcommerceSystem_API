@@ -1,0 +1,18 @@
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Exceptions\bin\Debug\netcoreapp3.1\Ecommerce.Exceptions.deps.json
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Exceptions\bin\Debug\netcoreapp3.1\Ecommerce.Exceptions.dll
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Exceptions\bin\Debug\netcoreapp3.1\Ecommerce.Exceptions.pdb
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Exceptions\obj\Debug\netcoreapp3.1\Ecommerce.Exceptions.AssemblyInfoInputs.cache
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Exceptions\obj\Debug\netcoreapp3.1\Ecommerce.Exceptions.AssemblyInfo.cs
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Exceptions\obj\Debug\netcoreapp3.1\Ecommerce.Exceptions.csproj.CoreCompileInputs.cache
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Exceptions\obj\Debug\netcoreapp3.1\Ecommerce.Exceptions.dll
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Exceptions\obj\Debug\netcoreapp3.1\Ecommerce.Exceptions.pdb
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Exceptions\obj\Debug\netcoreapp3.1\Ecommerce.Exceptions.csprojAssemblyReference.cache
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Exceptions\bin\Debug\netcoreapp3.1\Ecommerce.Exceptions.deps.json
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Exceptions\bin\Debug\netcoreapp3.1\Ecommerce.Exceptions.dll
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Exceptions\bin\Debug\netcoreapp3.1\Ecommerce.Exceptions.pdb
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Exceptions\obj\Debug\netcoreapp3.1\Ecommerce.Exceptions.csprojAssemblyReference.cache
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Exceptions\obj\Debug\netcoreapp3.1\Ecommerce.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Exceptions\obj\Debug\netcoreapp3.1\Ecommerce.Exceptions.AssemblyInfo.cs
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Exceptions\obj\Debug\netcoreapp3.1\Ecommerce.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Exceptions\obj\Debug\netcoreapp3.1\Ecommerce.Exceptions.dll
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Exceptions\obj\Debug\netcoreapp3.1\Ecommerce.Exceptions.pdb

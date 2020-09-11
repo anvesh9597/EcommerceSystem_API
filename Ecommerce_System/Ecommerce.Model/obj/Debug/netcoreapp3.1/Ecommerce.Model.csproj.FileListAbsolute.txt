@@ -1,0 +1,30 @@
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Model\obj\Debug\netcoreapp3.1\Ecommerce.Model.csprojAssemblyReference.cache
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Model\obj\Debug\netcoreapp3.1\Ecommerce.Model.AssemblyInfoInputs.cache
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Model\obj\Debug\netcoreapp3.1\Ecommerce.Model.AssemblyInfo.cs
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Model\bin\Debug\netcoreapp3.1\Ecommerce.Model.deps.json
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Model\bin\Debug\netcoreapp3.1\Ecommerce.Model.dll
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Model\bin\Debug\netcoreapp3.1\Ecommerce.Model.pdb
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Model\bin\Debug\netcoreapp3.1\Ecommerce.Exceptions.dll
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Model\bin\Debug\netcoreapp3.1\Ecommerce.Exceptions.pdb
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Model\obj\Debug\netcoreapp3.1\Ecommerce.Model.csproj.CopyComplete
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Model\obj\Debug\netcoreapp3.1\Ecommerce.Model.dll
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Model\obj\Debug\netcoreapp3.1\Ecommerce.Model.pdb
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Model\bin\Debug\netcoreapp3.1\Ecommerce.Model.runtimeconfig.json
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Model\bin\Debug\netcoreapp3.1\Ecommerce.Model.runtimeconfig.dev.json
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Model\obj\Debug\netcoreapp3.1\Ecommerce.Model.csproj.CoreCompileInputs.cache
+E:\Studies\Computer Programmes\DotnetAzure Training\ECommerce\Ecommerce_System\Ecommerce.Model\obj\Debug\netcoreapp3.1\Ecommerce.Model.genruntimeconfig.cache
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Model\bin\Debug\netcoreapp3.1\Ecommerce.Model.deps.json
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Model\bin\Debug\netcoreapp3.1\Ecommerce.Model.runtimeconfig.json
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Model\bin\Debug\netcoreapp3.1\Ecommerce.Model.runtimeconfig.dev.json
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Model\bin\Debug\netcoreapp3.1\Ecommerce.Model.dll
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Model\bin\Debug\netcoreapp3.1\Ecommerce.Model.pdb
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Model\bin\Debug\netcoreapp3.1\Ecommerce.Exceptions.dll
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Model\bin\Debug\netcoreapp3.1\Ecommerce.Exceptions.pdb
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Model\obj\Debug\netcoreapp3.1\Ecommerce.Model.csprojAssemblyReference.cache
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Model\obj\Debug\netcoreapp3.1\Ecommerce.Model.AssemblyInfoInputs.cache
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Model\obj\Debug\netcoreapp3.1\Ecommerce.Model.AssemblyInfo.cs
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Model\obj\Debug\netcoreapp3.1\Ecommerce.Model.csproj.CoreCompileInputs.cache
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Model\obj\Debug\netcoreapp3.1\Ecommerce.Model.csproj.CopyComplete
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Model\obj\Debug\netcoreapp3.1\Ecommerce.Model.dll
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Model\obj\Debug\netcoreapp3.1\Ecommerce.Model.pdb
+C:\Users\Adithya\Desktop\Ecommerce_System\Ecommerce.Model\obj\Debug\netcoreapp3.1\Ecommerce.Model.genruntimeconfig.cache
